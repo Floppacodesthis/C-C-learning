@@ -1,2 +1,2 @@
-# C-C-learning
+# C/C++ learning
 I dont know how to code in anything except python...
